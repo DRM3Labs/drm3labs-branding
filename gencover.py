@@ -17,7 +17,7 @@ def buildresourcemap(base):
   return assets
 
 def buildimagehtml(floatval, source, alt, width, padding):
-  html = '<div style="float:{float}"><img src="{source}" alt="{alt}" width="{width}" style="padding: {padding}"/></div>'
+  html = ' <div style="float:{float}"><img src="{source}" alt="{alt}" width="{width}" style="padding: {padding}"/></div>'
   
   html = html.replace('{float}', floatval)
   html = html.replace('{source}', source)
@@ -35,13 +35,13 @@ def buildmd(assets):
       md += '\n# ' + key + '\n'
       
       if len (assets[key]['jpg']) > 0:
-        md += '## jpg\n<div>'
+        md += '## jpg\n<div style="float: left">\n'
         for asset in assets[key]['jpg']:
           md += buildimagehtml('left', asset, key, '100px', '0.5em') + '\n'
         md += '</div>' + clear
 
       if len (assets[key]['png']) > 0:
-        md += '## png\n<div>'
+        md += '## png\n<div style="float: left">\n'
         for asset in assets[key]['png']:
           md += buildimagehtml('left', asset, key, '200px', '0.5em') + '\n'
         md += '</div>' + clear
