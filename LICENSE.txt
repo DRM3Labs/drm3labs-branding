@@ -1,0 +1,55 @@
+Last updated February 11th, 2023
+
+Overview
+
+These Rules apply to any licensee’s use of DRM3 Labs Corp wordmarks, designmarks, and similar intellectual property (the “Brand Assets”). By using or reproducing a Brand Asset each licensee (hereinafter referred to individually as “you”) is agreeing to abide by this policy that forms a binding agreement between you and DRM3 Labs Corp (the Company). If you are using a Brand Asset on behalf of a legal entity such as your employer, you represent that you have the authority to bind such entity, and the terms “you” or “your” shall include such entity. If you do not agree to these Rules, you are not authorized to use the Brand Assets. This policy may be updated by the Company at its discretion from time to time.
+
+This policy is intended to promote consistent use of the Brand Assets for the larger community. This makes it easier for people to instantly recognize references to DRM3 Labs Corp, a decentralized technology, and related products, and prevents market confusion. This policy is also intended to protect the Brand Assets. In following this policy, you help the DRM3 community protect valuable trademark rights from dilution and disparagement, while strengthening the DRM3 technology brand identity.
+
+Ownership of Brand Assets
+You acknowledge that the Company is the sole and exclusive owner of DRM3 related trademarks, brand assets, and derivatives thereof. You promise that you will not interfere with the Company's rights in the Brand Assets, including by challenging the Company’s use, registration, or application to register any Brand Asset or by registering any Brand Asset (including any derivative form, and foreign translation or transliteration thereof) yourself anywhere in the world.
+
+Trademark Guidelines
+
+If you want to report misuse of a DRM3 related trademark, please contact us here: brand@drm3.io.
+
+You may do the following without receiving specific permission from DRM3 Labs Corp (or its affiliates):
+
+Use DRM3 wordmarks in text to truthfully refer to and/or link to unmodified DRM3 programs, products, services, and technologies.
+
+Use DRM3 logos in visuals to truthfully refer to and/or to link to the applicable programs, products, services and technologies hosted on the DRM3 network.
+
+Use DRM3 wordmarks to explain that your software is built on DRM3 Network or open source code, or is compatible with the DRM3 Network.
+
+Describe a social media account, page, event, or community in accordance with the Social Media Guidelines below
+
+All other uses of a DRM3 trademark require our prior written permission. This includes any use of a DRM3 related trademark in a domain name. Contact brand@drm3.io for more information.
+
+Do:
+
+Give a DRM3 logo adequate spacing from the other elements on the web page or document (see the DRM3 Brand Kit for guidelines).
+
+Use the DRM3 wordmark only as an adjective, never as a noun or verb. Do not use it in plural or possessive forms. Instead, use the generic term for the DRM3 product or service following the trademark. For example: “DRM3 block explorer”, “DRM3 app”.
+
+Don’ts:
+
+Don’t use the DRM3 related logos in the name of your business, product, service, app, domain name, publication, or other offering without adding information to clarify the additional service.
+
+Don’t use marks, logos, company names, slogans, domain names, or designs that are confusingly similar to the DRM3 related trademarks.
+
+Don’t use the DRM3 related logos in a way that incorrectly implies affiliation with, or sponsorship, endorsement, or approval by DRM3 Labs Corp of your products or services.
+
+Don’t display the DRM3 related logos more prominently than your product, service, or company name.
+
+Don’t use the DRM3 related logos on merchandise for sale (e.g., selling t-shirts, mugs, etc.).
+
+Don’t use the DRM3 related logos for any other form of commercial use (e.g. offering technical support services), unless such use is limited to a truthful and descriptive reference.
+
+Don’t modify the DRM3 related logos, abbreviate them, or combine them with any other symbols, words, or images, or incorporate them into a tagline or slogan.
+
+Don’t use the DRM3 related logos in a disparaging manner or on materials associated with illegal, unfair, unlawful trades or fraudulent schemes.
+
+Social Media Guidelines
+In addition to the Guidelines above, the name and handle of your social media account and any and all pages should not begin with a DRM3 related trademark. In addition, DRM3 logos cannot be used in a way that might suggest affiliation with the DRM3 Labs Corp, including, but not limited to, the account, profile, or header images. The only exception to these requirements is if you’ve received prior permission from DRM3 Labs Corp.
+
+For example, you cannot name your account, page, or community “DRM3 Representatives” or “DRM3 Software.” However, it would be acceptable to name your account, page, or community “Fans of DRM3” or “Information about DRM3 Platform” as long as you do not use the DRM3 logos or otherwise suggest any affiliation with DRM3 Labs Corp.
