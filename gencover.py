@@ -38,13 +38,13 @@ def buildmd(assets):
         md += '## jpg\n<div style="float: left">\n'
         for asset in assets[key]['jpg']:
           md += buildimagehtml('left', asset, key, '100px', '0.5em') + '\n'
-        md += '</div>' + clear
+        md += '</div>\n' + clear
 
       if len (assets[key]['png']) > 0:
         md += '## png\n<div style="float: left">\n'
         for asset in assets[key]['png']:
           md += buildimagehtml('left', asset, key, '200px', '0.5em') + '\n'
-        md += '</div>' + clear
+        md += '</div>\n' + clear
 
     return md
 
