@@ -7,12 +7,12 @@
 
 ## colors
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/colors/consumer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/colors/service.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/colors/datapreneur.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/colors/producer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/colors/highlight.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/colors/consumer.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/colors/service.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/colors/datapreneur.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/colors/producer.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/colors/highlight.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -21,11 +21,41 @@
 
 ## favicon
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/favicon/drm3 favicon-6.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/favicon/drm3 favicon-4.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/favicon/drm3 favicon-1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/favicon/drm3 favicon-2.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/favicon/drm3 favicon-6.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/favicon/drm3 favicon-4.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/favicon/drm3 favicon-1.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/favicon/drm3 favicon-2.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+</div>
+<div style="clear: both"></div>
+
+<div style="clear: both"></div>
+
+
+## labs
+### png
+<div style="float: left">
+  <img src="./brand/logos/labs/labs_normal.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/labs/labs_set.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/labs/labs_full.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+</div>
+<div style="clear: both"></div>
+
+<div style="clear: both"></div>
+
+
+## logo-circle
+### jpg
+<div style="float: left">
+  <img src="./brand/logos/logo-circle/c_0005.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/logo-circle/c_0003.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+</div>
+<div style="clear: both"></div>
+
+### png
+<div style="float: left">
+  <img src="./brand/logos/logo-circle/c_0010_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/logo-circle/c_0003_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -35,42 +65,25 @@
 ## logos
 ### jpg
 <div style="float: left">
-  <img src="./brand/logos/google-logo.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/Copy of favicon.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0005.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0011.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0004.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0001.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0017.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0003.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/drm3 wordmark black-2 (2).jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0002.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0016.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/drm3 favicon-white.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/favicon.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0018.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0009.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0018.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0009.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_002.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/Copy of favicon.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/drm3 favicon-white.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/favicon.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0001.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0016.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/logos/0015_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0003_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0012.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/drm3_hecho_en_pr.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0013_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/Labs-8.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/labs1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/big.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0007_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0008_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0011_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/Labs-7.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/favicon_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/google-workspace-logo.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0006_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/logos/0010_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/logos/sq_0015_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0008_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0007_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0012.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/favicon_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/sq_0006_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -78,30 +91,13 @@
 
 
 ## marketing
-### jpg
+### png
 <div style="float: left">
-  <img src="./brand/marketing/sdk-wide.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-</div>
-<div style="clear: both"></div>
-
-### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/marketing/drm3-sdk.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/marketing/drm3_high_level_flow.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/marketing/drm3_simple_depict.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/marketing/warn.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-</div>
-<div style="clear: both"></div>
-
-<div style="clear: both"></div>
-
-
-## network
-### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/network/drm3_network_hero.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/network/network-1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/network/drm3_network.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/marketing/drm3_high_level_flow.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/marketing/drm3_network_hero.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/marketing/drm3_simple_depict.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/marketing/network-1.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/marketing/drm3_network.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -110,11 +106,11 @@
 
 ## nfts
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/sdk/nfts/sdk_service.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/sdk/nfts/sdk_producer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/sdk/nfts/sdk_datapreneur.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/sdk/nfts/sdk_consumer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/sdk/nfts/sdk_service.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/nfts/sdk_producer.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/nfts/sdk_datapreneur.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/nfts/sdk_consumer.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -123,9 +119,9 @@
 
 ## pr
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/pr/hecho_en_pr.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/pr/hecho_en_pr_w_drm3.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/pr/hecho_en_pr.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/pr/hecho_en_pr_w_drm3.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -134,8 +130,8 @@
 
 ## qr_code
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/qr_code/drm3.io.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/qr_code/drm3.io.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
@@ -145,15 +141,35 @@
 ## sdk
 ### jpg
 <div style="float: left">
-  <img src="./brand/sdk/sdk_opaque.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/sdk_opaque.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
 ### png
-<div style="background-color: #4C4F4E; float: left">
-  <img src="./brand/sdk/sdk_thin.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/sdk/sdk_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/sdk/sdk_block.png" width="110px" style="padding: 1em" style="margin: 1em"/>
+<div style="float: left">
+  <img src="./brand/sdk/sdk_thin.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/sdk_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/sdk/sdk_block.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+</div>
+<div style="clear: both"></div>
+
+<div style="clear: both"></div>
+
+
+## wordmark
+### jpg
+<div style="float: left">
+  <img src="./brand/logos/wordmark/002.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/wordmark/001.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/wordmark/wordmark_009.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/wordmark/0017.jpg" width="200px" style="padding: 1em" style="margin: 1em"/>
+</div>
+<div style="clear: both"></div>
+
+### png
+<div style="float: left">
+  <img src="./brand/logos/wordmark/0013_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
+  <img src="./brand/logos/wordmark/n003_transparent.png" width="200px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
