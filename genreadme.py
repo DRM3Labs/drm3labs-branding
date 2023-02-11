@@ -1,3 +1,7 @@
+#  @license
+#  Copyright 2023 DRM3 Labs Corp
+#  SPDX-License-Identifier: Apache-2.0
+
 import os, json
 
 def buildresourcemap(base):
