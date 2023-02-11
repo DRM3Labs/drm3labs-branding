@@ -96,6 +96,8 @@
 ### jpg
 <div style="float: left">
   <img src="./brand/marketing/drm3_checklist.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/producers.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/consumers.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
   <img src="./brand/marketing/network.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
 </div>
 <div style="clear: both"></div>
@@ -105,8 +107,10 @@
   <img src="./brand/marketing/drm3_high_level_flow.png" width="140px" style="padding: 2em" style="margin: 2em"/>
   <img src="./brand/marketing/drm3_network_hero.png" width="140px" style="padding: 2em" style="margin: 2em"/>
   <img src="./brand/marketing/engine.png" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/network_graph.png" width="140px" style="padding: 2em" style="margin: 2em"/>
   <img src="./brand/marketing/drm3_high_level_data.png" width="140px" style="padding: 2em" style="margin: 2em"/>
-  <img src="./brand/marketing/network-1.png" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/producers.png" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/consumers.png" width="140px" style="padding: 2em" style="margin: 2em"/>
   <img src="./brand/marketing/drm3_network.png" width="140px" style="padding: 2em" style="margin: 2em"/>
 </div>
 <div style="clear: both"></div>
