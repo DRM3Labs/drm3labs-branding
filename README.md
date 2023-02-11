@@ -96,6 +96,7 @@
 ### jpg
 <div style="float: left">
   <img src="./brand/marketing/drm3_checklist.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
+  <img src="./brand/marketing/network.jpg" width="140px" style="padding: 2em" style="margin: 2em"/>
 </div>
 <div style="clear: both"></div>
 
