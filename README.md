@@ -32,19 +32,6 @@
 <div style="clear: both"></div>
 
 
-# linkedin
-## png
-<div style="float: left">
-  <img src="./brand/social/linkedin/Labs-3.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/linkedin/Labs-1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/linkedin/Labs-5.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/linkedin/Labs-4.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-</div>
-<div style="clear: both"></div>
-
-<div style="clear: both"></div>
-
-
 # logos
 ## jpg
 <div style="float: left">
@@ -167,21 +154,6 @@
   <img src="./brand/sdk/sdk_thin.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/sdk_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/sdk_block.png" width="110px" style="padding: 1em" style="margin: 1em"/>
-</div>
-<div style="clear: both"></div>
-
-<div style="clear: both"></div>
-
-
-# zoom
-## jpg
-<div style="float: left">
-  <img src="./brand/social/zoom/DrmZoom-2.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/zoom/DrmZoom-1.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/zoom/DrmZoom-4.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/zoom/DrmZoom-5.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/zoom/DrmZoom-7.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
-  <img src="./brand/social/zoom/DrmZoom-6.jpg" width="110px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
 
