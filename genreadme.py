@@ -30,16 +30,16 @@ def buildassetsmd(assets):
     md = ''
     for key in sorted(assets.keys()):
       md += clear
-      md += '\n# ' + key + '\n'
+      md += '\n## ' + key + '\n'
       
       if len (assets[key]['jpg']) > 0:
-        md += '## jpg\n<div style="float: left">\n'
+        md += '### jpg\n<div style="float: left">\n'
         for asset in assets[key]['jpg']:
           md += buildimagehtml(asset, '110px', '1em') + '\n'
         md += '</div>\n' + clear
 
       if len (assets[key]['png']) > 0:
-        md += '## png\n<div style="background-color: #4C4F4E; float: left">\n'
+        md += '### png\n<div style="background-color: #4C4F4E; float: left">\n'
         for asset in assets[key]['png']:
           md += buildimagehtml(asset, '110px', '1em') + '\n'
         md += '</div>\n' + clear
