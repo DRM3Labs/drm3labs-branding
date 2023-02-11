@@ -7,7 +7,7 @@
 
 # colors
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/colors/consumer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/colors/service.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/colors/datapreneur.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -21,7 +21,7 @@
 
 # favicon
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/favicon/drm3 favicon-6.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/favicon/drm3 favicon-4.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/favicon/drm3 favicon-1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -54,7 +54,7 @@
 <div style="clear: both"></div>
 
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/logos/0015_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/logos/0003_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/logos/0012.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -85,7 +85,7 @@
 <div style="clear: both"></div>
 
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/marketing/drm3-sdk.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/marketing/drm3_high_level_flow.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/marketing/drm3_simple_depict.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -98,7 +98,7 @@
 
 # network
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/network/drm3_network_hero.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/network/network-1.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/network/drm3_network.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -110,7 +110,7 @@
 
 # nfts
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/sdk/nfts/sdk_service.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/nfts/sdk_producer.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/nfts/sdk_datapreneur.png" width="110px" style="padding: 1em" style="margin: 1em"/>
@@ -123,7 +123,7 @@
 
 # pr
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/pr/hecho_en_pr.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/pr/hecho_en_pr_w_drm3.png" width="110px" style="padding: 1em" style="margin: 1em"/>
 </div>
@@ -134,7 +134,7 @@
 
 # qr_code
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/qr_code/drm3.io.png" width="110px" style="padding: 1em" style="margin: 1em"/>
 </div>
 <div style="clear: both"></div>
@@ -150,7 +150,7 @@
 <div style="clear: both"></div>
 
 ## png
-<div style="float: left">
+<div style="background-color: #4C4F4E; float: left">
   <img src="./brand/sdk/sdk_thin.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/sdk_transparent.png" width="110px" style="padding: 1em" style="margin: 1em"/>
   <img src="./brand/sdk/sdk_block.png" width="110px" style="padding: 1em" style="margin: 1em"/>
