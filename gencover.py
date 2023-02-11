@@ -16,10 +16,9 @@ def buildresourcemap(base):
               assets[category][resourcetype].append('.' + relpath)
   return assets
 
-def buildimagehtml(floatval, source, alt, width, padding):
-  html = ' <div style="float:{float}"><img src="{source}" alt="{alt}" width="{width}" style="padding: {padding}"/></div>'
+def buildimagehtml(source, alt, width, padding):
+  html = '  <img src="{source}" alt="{alt}" width="{width}" style="padding: {padding}"/>'
   
-  html = html.replace('{float}', floatval)
   html = html.replace('{source}', source)
   html = html.replace('{alt}', alt)
   html = html.replace('{width}', width)
@@ -37,13 +36,13 @@ def buildmd(assets):
       if len (assets[key]['jpg']) > 0:
         md += '## jpg\n<div style="float: left">\n'
         for asset in assets[key]['jpg']:
-          md += buildimagehtml('left', asset, key, '100px', '0.5em') + '\n'
+          md += buildimagehtml(asset, key, '100px', '0.5em') + '\n'
         md += '</div>\n' + clear
 
       if len (assets[key]['png']) > 0:
         md += '## png\n<div style="float: left">\n'
         for asset in assets[key]['png']:
-          md += buildimagehtml('left', asset, key, '200px', '0.5em') + '\n'
+          md += buildimagehtml(asset, key, '200px', '0.5em') + '\n'
         md += '</div>\n' + clear
 
     return md
