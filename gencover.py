@@ -16,7 +16,7 @@ def buildresourcemap(base):
               assets[category][resourcetype].append('.' + relpath)
   return assets
 
-def buildimagehtml(url, floatval, source, alt, width, padding):
+def buildimagehtml(floatval, source, alt, width, padding):
   html = '<div style="float:{float}"><img src="{source}" alt="{alt}" width="{width}" style="padding: {padding}"/></div>'
   
   html = html.replace('{float}', floatval)
@@ -25,35 +25,33 @@ def buildimagehtml(url, floatval, source, alt, width, padding):
   html = html.replace('{width}', width)
   html = html.replace('{padding}', padding)
 
-  html = '<a href={url}>' + html + '</a>'
-  
-  html = html.replace('{url}', url)
-
   return html
 
-
 def buildmd(assets):
-    clear = '<div style="clear: both"></div>' + '\n'
+    clear = '<div style="clear: both"></div>' + '\n\n'
     md = ''
     for key in sorted(assets.keys()):
+      md += clear
       md += '\n# ' + key + '\n'
       
       if len (assets[key]['jpg']) > 0:
         md += '## jpg\n'
         for asset in assets[key]['jpg']:
-          md += buildimagehtml('left', asset, key, '50px', '0.5em') + '\n'
+          md += buildimagehtml('left', asset, key, '100px', '0.5em') + '\n'
         md += clear
 
       if len (assets[key]['png']) > 0:
         md += '## png\n'
         for asset in assets[key]['png']:
-          md += buildimagehtml('left', asset, key, '150px', '0.5em') + '\n'
+          md += buildimagehtml('left', asset, key, '200px', '0.5em') + '\n'
         md += clear
 
     return md
-
 
 assets = buildresourcemap('/brand')
 print(json.dumps(assets, indent=4)) 
 md = buildmd(assets)
 print(md)
+
+with open("README.md", "w") as textfile:
+    textfile.write(md)
